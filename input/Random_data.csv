@@ -1,0 +1,104 @@
+Are you self employed ?,How many employees your company has? ,IT company,Bonus,Post_grad degree,Salary,Work difficulty,Overtime,Age,Gender,Country,Role,Remote work,Employee_ID
+1,26-100,,Not eligible for coverage,No,1733,Very easy,No,twenty,Male,UK,Front-end Developer,Sometimes,65
+1,26-100,,Not eligible for coverage,No,1733,Very easy,No,39,Male,UK,Back-end Developer,Sometimes,65
+1,45809,,No,Yes,1218,Somewhat easy,No,29,male,USA,Developer,Never,97
+1,45809,,No,No,,Neither easy nor difficult,Maybe,38,Male ,UK,Back-end Developer,Always,27
+0,26-100,1,Not eligible for coverage,No,1733,Very easy,No,39,Male,UK,teacher,Sometimes,65
+0,26-100,1,Not eligible for coverage,No,1733,Very easy,No,39,Male,UK,Back-end Developer,Sometimes,65
+0,45809,1,No,Yes,1218,Somewhat easy,No,29,male,USA,teacher,Never,97
+0,45809,1,No,No,,Neither easy nor difficult,Maybe,38,Male ,UK,Back-end Developer,Always,27
+1,,,,,1769,,,43,male,UK,Supervisor/Team Lead,Sometimes,99
+0,45809,0,Yes,No,1397,Neither easy nor difficult,Yes,43,Female,BelgiuM,Front-end Developer,Sometimes,49
+0,26-100,1,Not eligible for coverage,No,1107,Very easy,No,39,Male,UK,actor,Sometimes,65
+0,45809,1,No,Yes,1104,Somewhat easy,No,29,male,USA,teacher,Never,97
+0,45809,1,No,No,1552,Neither easy nor difficult,Maybe,38,Male ,UK,Back-end Developer,Always,27
+1,,,,,1065,,,43,male,UK,dantist,Sometimes,99
+0,45809,0,Yes,No,1184,Neither easy nor difficult,Yes,43,Female,Belgium,Front-end Developer,Sometimes,49
+0,26-100,1,Yes,Yes,1321,Very easy,No,28,Male,Belgium,singer,Never,97
+0,100-500,0,Yes,No,,Somewhat difficult,Yes,34,Male,Belgium,Executive Leadership,Sometimes,59
+0,100-500,1,Yes,No,1139,Very easy,No,30,Female,Belgium,Supervisor,Always,50
+0,100-500,0,Yes,Yes,1334,Somewhat easy,No,44,Male,Canada,DevOps,Sometimes,53
+0,100-500,1,Yes,No,1456,Very easy,No,,Male,USA,Designer,Always,37
+0,100-500,1,I don't know,No,,Neither easy nor difficult,Maybe,52,m,USA,Executive Leadership,Sometimes,56
+0,26-100,1,Not eligible for coverage,No,1369,Very difficult,Maybe,32,female.,Cada,director,Always,39
+0,500-1000,1,No,No,1329,I don't know,Maybe,34,Male,UK,Back-end Developer,Never,70
+1,,,,,1254,,,25,female ,USA,One-person shop,Always,50
+0,100-500,0,I don't know,No,1738,I don't know,Yes,31,M,USA,Back-end Developer,Sometimes,92
+0,45809,1,No,No,,Very easy,No,26,Male,USA,Back-end Developer,Sometimes,43
+0,More than 1000,0,Yes,Yes,,Somewhat easy,No,35,male,USA,Other,Never,60
+0,26-100,1,Yes,No,1889,Very easy,Maybe,25,male,Germany,Back-end Developer,Sometimes,1
+0,44317,1,Yes,No,1734,Somewhat difficult,Maybe,33,Male,Cada,Back-end Developer,Sometimes,28
+1,,,,,1527,,,38,Male,USA,Team Lead,Sometimes,35
+0,100-500,0,Yes,I don't know,1926,Very easy,No,42,male,Germany,Supervisor,Never,19
+0,26-100,0,No,No,1167,Very difficult,Yes,27,Male,Netherlands,SysAdmin,Sometimes,59
+0,100-500,1,I don't know,No,,Somewhat difficult,No,35,male,Germany,Back-end Developer,Never,37
+0,500-1000,0,I don't know,Yes,1957,Neither easy nor difficult,Maybe,,female,UK,Other,Never,35
+0,45809,1,Not eligible for coverage,No,1819,Somewhat easy,No,32,female,UK,Designer,Never,94
+0,100-500,1,Not eligible for coverage,No,1604,Somewhat easy,Maybe,32,Malw,Germany,Back-end Developer,Never,66
+0,100-500,1,Yes,No,1227,Very easy,No,30,Male,USA,Supervisor,Sometimes,38
+0,More than 1000,1,I don't know,No,1520,Very easy,Maybe,31,Male,USA,One-person shop,Never,15
+1,,,,,1734,,,37,Male ,Czech Republic,Back-end Developer,Sometimes,36
+0,26-100,1,Yes,No,,Very easy,No,36,Male,UK,One-person shop,Sometimes,66
+0,100-500,1,No,No,,Somewhat easy,Maybe,33,Male,Germany,Back-end Developer,Never,94
+0,26-100,1,Yes,No,,Very easy,No,44,Male,USA,Back-end Developer,Always,56
+0,100-500,1,No,No,,Somewhat easy,No,29,male,UK,Front-end Developer,Never,85
+0,100-500,1,No,Yes,,Somewhat easy,No,29,male,UK,Back-end Developer,Sometimes,92
+0,More than 1000,1,Yes,I don't know,,Neither easy nor difficult,Maybe,44,Male,Cada,Back-end Developer,Always,4
+1,,,,,,,,34,Male,USA,Back-end Developer,Sometimes,54
+0,100-500,1,Yes,No,1288,Somewhat easy,No,,male,USA,Back-end Developer,Always,35
+0,More than 1000,1,Yes,No,1705,Somewhat difficult,Yes,46,Female,Netherlands,Supervisor/Team Lead,Never,87
+1,,,,,1954,,,28,M,Lithuania,Front-end Developer,Sometimes,58
+,More than 1000,0,No,No,1976,Somewhat difficult,Maybe,41,Male,USA,Designer,Never,82
+0,45809,1,Yes,I don't know,1175,Somewhat easy,Maybe,33,male,USA,hairdresser,Sometimes,49
+1,,,,,1236,,,32,Male,USA,Dev Evangelist,Sometimes,88
+0,45809,1,I don't know,No,1839,I don't know,Maybe,45,Male,USA,Support,Sometimes,93
+1,,,,,1635,,,43,male,UK,Back-end Developer,Sometimes,36
+0,45809,1,Yes,No,1791,Very easy,No,37,F,USA,Front-end Developer,Always,30
+,26-100,1,No,No,1243,Somewhat easy,Maybe,37,M,Australia,comedian,Never,65
+0,45809,1,Yes,,,Very easy,Maybe,27,Male,USA,Supervisor,Sometimes,74
+1,,,,,1292,,,31,Male,Netherlands,DevOps,Sometimes,81
+0,More than 1000,1,Yes,No,1793,Somewhat difficult,Maybe,36,Male,USA,Designer,Sometimes,39
+0,500-1000,0,Yes,No,1136,I don't know,Maybe,34,Male,USA,Executive Leadership,Always,8
+0,More than 1000,0,Yes,Yes,1908,Somewhat difficult,Maybe,,female,Russia,Front-end Developer,Sometimes,59
+0,26-100,1,Yes,No,,Somewhat easy,No,30,Male,Russia,Back-end Developer,Never,57
+0,100-500,0,Yes,No,1240,Somewhat difficult,Maybe,32,Male,Cadana,One-person shop,Never,14
+0,45809,0,Yes,No,1840,Somewhat difficult,No,40,female,Russia,doctor,Sometimes,31
+0,100-500,0,I don't know,No,1844,Neither easy nor difficult,Maybe,40,Male,Russia,Back-end Developer,Sometimes,97
+0,More than 1000,1,Yes,Yes,1869,Neither easy nor difficult,No,41,man,France,Other,Sometimes,76
+0,26-100,0,Not eligible for coverage,No,1992,Very difficult,Yes,27,Male,UK,Back-end Developer,Never,3
+0,26-100,1,Yes,No,1210,Somewhat easy,No,30,Male,Russia,Back-end Developer,Sometimes,5
+1,,,,,1834,,,29,Male,Venezuela,Team Lead,Always,57
+1,,,,,1769,,,38,Male,UK,Supervisor,Sometimes,82
+1,,,,,1710,,,35,male,Netherlands,CEO,Sometimes,85
+0,45809,0,No,No,,Somewhat difficult,Maybe,35,female,Russia,Back-end Developer,Never,4
+0,More than 1000,1,Yes,Yes,1646,Neither easy nor difficult,Maybe,29,M,USA,Other,Always,1
+0,100-500,1,Yes,No,1345,I don't know,Maybe,,Male,USA,Designer,Never,44
+0,26-100,0,No,No,1779,Very easy,No,27,Male,Netherlands,Businessman,Sometimes,61
+1,,,,,1195,,,39,Male,Poland,Supervisor,Sometimes,54
+0,100-500,1,Yes,No,1527,Neither easy nor difficult,No,28,male,Belgium,One-person shop,Sometimes,55
+0,45809,0,I don't know,No,1088,Very difficult,Yes,46,Male,USA,Back-end Developer,Sometimes,17
+0,44317,1,No,No,1316,Very easy,No,40,male,Netherlands,Team Lead,Sometimes,83
+0,26-100,1,Yes,No,1035,Very easy,No,37,Male,USA,Supervisor,Always,12
+0,26-100,1,No,No,1730,Very easy,No,41,Male,NetherlandS,Back-end Developer,Sometimes,100
+1,,,,,,,,19,M,France,Front-end Developer,Never,60
+0,45809,1,I don't know,No,1769,Somewhat easy,No,38,F,Netherlands,Back-end Developer,Never,98
+0,26-100,1,I don't know,No,1903,Somewhat difficult,Maybe,33,Male ,USA,Back-end Developer,Sometimes,5
+0,26-100,1,Yes,No,1133,Very easy,No,33,Male,USA,Back-end Developer,Always,78
+0,44317,1,Yes,No,1007,I don't know,No,21,male,UK,Back-end Developer,Never,4
+0,44317,1,No,No,1981,Very difficult,Maybe,36,Male,Brazil,Supervisor/Team Lead,Never,48
+1,,,,,1251,,,39,Male,Cada,Front-end Developer,Sometimes,75
+0,26-100,1,I don't know,No,1712,Somewhat easy,No,35,Male,Fr--ance,Designer,Sometimes,99
+1,,,,,1793,,,36,male,France,Back-end Developer,Sometimes,34
+0,45809,1,Yes,No,1051,Neither easy nor difficult,Maybe,45,Male,France,Dev Evangelist,Never,67
+0,26-100,1,I don't know,No,1868,Somewhat difficult,Maybe,41,Male,Cada,Support,Never,91
+0,26-100,1,I don't know,No,,Somewhat difficult,Maybe,35,Male,UK,Back-end Developer,Sometimes,89
+1,,,,,1776,,,,Male,France,Front-end Developer,Sometimes,29
+0,26-100,1,I don't know,Yes,1606,Very easy,No,24,Female,FranCe,Executive Leadership,Sometimes,28
+0,100-500,0,No,No,1379,I don't know,Maybe,33,Male,BraZil,Supervisor,Never,47
+0,More than 1000,1,Yes,I don't know,1993,Neither easy nor difficult,Maybe,35,male,USA,DevOps,Sometimes,97
+0,45809,1,No,Yes,1121,Neither easy nor difficult,No,26,Male,UK,Designer,Sometimes,87
+0,45809,1,No,No,1465,Somewhat difficult,Yes,17,male,Brazil,Executive Leadership,Always,97
+0,45809,0,I don't know,No,1225,Neither easy nor difficult,No,29,Female,US,Front-end Developer,Sometimes,41
+0,100-500,1,Yes,No,1670,Neither easy nor difficult,No,,Male,USA,Back-end Developer,Sometimes,46
+0,26-100,1,I don't know,No,,Very easy,No,36,female,USA,One-person shop,Always,97
+0,26-100,1,I don't know,Yes,1159,I don't know,No,46,M,USA,Back-end Developer,Sometimes,91
